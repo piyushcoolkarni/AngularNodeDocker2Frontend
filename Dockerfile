@@ -1,4 +1,4 @@
-FROM node:0.10-onbuild
+FROM node:0.10.40
 
 RUN mkdir /src
 WORKDIR /src

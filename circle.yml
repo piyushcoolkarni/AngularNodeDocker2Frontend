@@ -10,4 +10,4 @@ deployment:
   dockerhub:
      branch: master
      commands:
-       - $DockerHubTrigger
+       - $DOCKER_HUB_TRIGGER
